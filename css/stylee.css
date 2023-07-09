@@ -1,0 +1,31 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.chart-container {
+  margin-top: 30px;
+}
+
+.donation-table {
+  width: 100%;
+  margin-top: 30px;
+  border-collapse: collapse;
+}
+
+.donation-table th,
+.donation-table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+.donation-table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+  text-align: center;
+}
